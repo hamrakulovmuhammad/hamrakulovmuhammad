@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQG9jwW2Jm0Z2g/article-cover_image-shrink_600_2000/0/1623897312913?e=2147483647&v=beta&t=rvDzCYn3eXtJNl245Y-yczlDkLbKBjRz55iItzZUib0)](https://hamrakulovmuhammad.io)
 
-<h1 align="center">Hi 👋, I'm Muhammad</h1>
+<h1 align="center">Hi 👋, I'm Hamrakulov Muhammad</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 - 🌱 I'm going to smell **React**
