@@ -12,16 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://media.licdn.com/dms/image/C4D12AQG9jwW2Jm0Z2g/article-cover_image-shrink_600_2000/0/1623897312913?e=2147483647&v=beta&t=rvDzCYn3eXtJNl245Y-yczlDkLbKBjRz55iItzZUib0)](https://hamrakulovmuhammad.io)
 
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+[![MasterHead](https://media.licdn.com/dms/image/C4D12AQG9jwW2Jm0Z2g/article-cover_image-shrink_600_2000/0/1623897312913?e=2147483647&v=beta&t=rvDzCYn3eXtJNl245Y-yczlDkLbKBjRz55iItzZUib0)](https://hamrakulovmuhammad.io)
 
 - 🌱 I'm going to smell **React**
 -  📫 How to reach me
 **hamrakulovm010@gmail.com**
 
-<h3 align="left"><b>Connect with me:</b></h3>
+<h1 align="left"><b>Connect with me:</b></h1>
 <p align="left">
   <a href="https://instagram.com/_shavkatovich_771" target="blank"
     ><img
