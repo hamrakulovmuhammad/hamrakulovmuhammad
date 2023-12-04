@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 🌱 I'm going to smell **React**
-- 📫 How to reach me
+- 🌱 I'm going to smell **React** - 📫 How to reach me
 **hamrakulovm010@gmail.com**
 
 <h3 align="left"><b>Connect with me:</b></h3>
@@ -27,8 +26,24 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_shavkatovich_771"
       height="30"
-      width="40"
+      width="30"
   /></a>
+  <a href="https://t.me/muhammadjon_8474" target="blank"
+  ><img
+    align="center"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"
+    alt=""
+    height="30"
+    width="30"
+/></a>
+<a href="https://vk.com/id802043892" target="blank"
+><img
+  align="center"
+  src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"
+  alt=""
+  height="30"
+  width="30"
+/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
