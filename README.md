@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 🌱 I'm going to smell **React** - 📫 How to reach me
+- 🌱 I'm going to smell **React**
+-  📫 How to reach me
 **hamrakulovm010@gmail.com**
 
 <h3 align="left"><b>Connect with me:</b></h3>
