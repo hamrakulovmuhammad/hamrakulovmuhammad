@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"
   alt=""
   height="30"
-  width="30"
+  width="40"
 /></a>
 </p>
 
