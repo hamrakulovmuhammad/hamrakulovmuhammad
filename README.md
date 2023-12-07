@@ -13,7 +13,7 @@ https://img.freepik.com/photos-premium/purple-background-chinese-watercolor-land
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://online-courses.education/wp-content/uploads/2023/05/971-870x400.jpg"/>
+  <img src="https://online-courses.education/wp-content/uploads/2023/05/971-870x400.jpg"with="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Hamrakulov Muhammad</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
