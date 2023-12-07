@@ -13,7 +13,7 @@ https://img.freepik.com/photos-premium/purple-background-chinese-watercolor-land
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://usagif.com/wp-content/uploads/sun.gif)" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Hamrakulov Muhammad</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
