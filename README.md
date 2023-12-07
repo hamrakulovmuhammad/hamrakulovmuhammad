@@ -2,7 +2,7 @@
 **hamrakulovmuhammad/hamrakulovmuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://img.freepik.com/photos-premium/purple-background-chinese-watercolor-landscape-illustration-mountain-river-grass-anime-wallpaper_327903-1217201.jpg
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm Hamrakulov Muhammad</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
