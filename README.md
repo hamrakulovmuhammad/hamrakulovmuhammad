@@ -1,5 +1,5 @@
 <!--
-**hamrakulovmuhammad/hamrakulovmuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 https://img.freepik.com/photos-premium/purple-background-chinese-watercolor-landscape-illustration-mountain-river-grass-anime-wallpaper_327903-1217201.jpg
