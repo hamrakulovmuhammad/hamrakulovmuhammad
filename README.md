@@ -18,7 +18,7 @@ https://img.freepik.com/photos-premium/purple-background-chinese-watercolor-land
 <h1 align="center">Hi 👋, I'm Hamrakulov Muhammad</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 🌱 I'm going to smell **React**
+- 🌱 I'm going to learn **React**
 -  📫 How to reach me
 **hamrakulovm010@gmail.com**
 
